@@ -13,5 +13,5 @@ def test_greater_equal():
 
 @pytest.mark.others
 def test_less():
-   num = 100
+   num = 50
    assert num < 200
